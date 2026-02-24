@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=900&size=38&duration=3000&pause=2000&color=99e6ff&center=true&vCenter=true&width=800&lines=My+Name+Is+Mosharof+;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;" alt="Mosharof Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=900&size=38&duration=3000&pause=2000&color=99e6ff&center=true&vCenter=true&width=800&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80;" alt="Mosharof Animation">
 
 <br/><br/>
 <!-- ③ Skills Loop - Nice Colors -->
