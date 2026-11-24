@@ -33,7 +33,7 @@
 <td width="60%" valign="middle">
 <h2>👨‍💻 About Me</h2>
 <p>
-🚀 MERN Stack Developer building modern, scalable full-stack web applications<br/>
+🚀 Junior Full-Stack Developer building modern, scalable full-stack web applications<br/>
 ⚛️ Building responsive user interfaces with <strong>React.js</strong> and <strong>Next.js</strong><br/>
 ⚙️ Developing REST APIs and backend systems with <strong>Node.js</strong> and <strong>Express.js</strong><br/>
 🍃 Working with <strong>MongoDB</strong> for data storage and application workflows<br/>
